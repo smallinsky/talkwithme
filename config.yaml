@@ -1,0 +1,3 @@
+logfile: logfile.txt
+http_port: 8080
+telnet_port: 4444
